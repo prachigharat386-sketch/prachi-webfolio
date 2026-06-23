@@ -1,6 +1,6 @@
 import Button from "../components/Button";
 import SocialIcons from "../components/SocialIcons";
-import photo from "../assets/photo.jpg.jpeg";
+import photo from "../assets/photo.jpeg";
 
 export default function Home(){
 
